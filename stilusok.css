@@ -1,0 +1,18 @@
+body {
+    background-color: #999999;
+    color: black;
+}
+
+a:active {
+    color: white;
+}
+
+table {
+    float: center;
+    width: 670px;
+    background-color: white;
+}
+
+.cim {
+    margin: auto;
+}
