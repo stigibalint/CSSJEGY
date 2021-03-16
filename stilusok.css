@@ -15,4 +15,16 @@ table {
 
 .cim {
     margin: auto;
+    margin: 0;
+}
+
+.sor {
+    background-color: #485808;
+    width: 650px;
+    height: 60px;
+    text-align: center;
+}
+
+h1 {
+    color: white;
 }
