@@ -11,6 +11,7 @@ table {
     float: center;
     width: 670px;
     background-color: white;
+    margin: auto;
 }
 
 .cim {
